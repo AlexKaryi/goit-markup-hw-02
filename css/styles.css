@@ -41,7 +41,6 @@ body {
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
-  cursor: pointer;
 }
 
 .logo-header > span {
@@ -51,7 +50,6 @@ body {
 
 .nav-link {
   color: var(--title-color);
-  cursor: pointer;
 }
 
 .nav-link:hover,
@@ -129,7 +127,6 @@ body {
 }
 
 .advantages-text {
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   color: var(--main-text-color);
@@ -168,7 +165,6 @@ body {
 }
 
 .team-personal-position {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.18;
   text-align: center;
@@ -188,7 +184,6 @@ body {
   font-size: 26px;
   line-height: 1.19;
   letter-spacing: 0.03em;
-  cursor: pointer;
 }
 
 .logo-footer > span {
@@ -202,23 +197,19 @@ body {
 
 .footer-contact-adress {
   font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   color: var(--background-color);
-  cursor: pointer;
 }
 
 .footer-contact-mail,
 .footer-contact-tel {
   font-family: Roboto;
   font-style: normal;
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: var(--footer-adress-color);
-  cursor: pointer;
 }
 
 .footer-contact-adress:hover,
@@ -269,7 +260,6 @@ body {
 }
 
 .card-category {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.87;
   color: var(--main-text-color);
